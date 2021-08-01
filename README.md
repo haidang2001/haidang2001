@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haidang2001
-- 👀 I’m interested in computer
+- 👀 I’m interested in computers
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on intermship
 - 📫 How to reach me nchdang16012001@gmail.com
