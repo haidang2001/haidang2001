@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haidang2001  
-- 👀 I’m interested in mobile app development, backend systems, and building real-world products that help people stay healthy and productive.  
+- 👀 I’m interested in mobile app development, backend systems, and building real-world products. 
 - 🌱 I’m currently learning Post-graduate Mobile Application program at Fanshawe College.  
-- 💞️ I’m looking to collaborate on fitness, productivity, or health-related projects—especially those that involve full-stack or mobile development.  
+- 💞️ I’m looking to collaborate on projects—especially those that involve full-stack or mobile development.  
 - 📫 How to reach me: tdtnguyendang@gmail.com or connect with me on [LinkedIn](linkedin.com/in/dang-nguyen-501936240/)
 
 <!---
